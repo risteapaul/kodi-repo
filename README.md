@@ -36,5 +36,5 @@ Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kodi-repo/master/re
 
 **
 Offtopic : 
-Gran_Torino, ce faci tata, mai plangi la mamica(CristianAdrian) atunci cand te supara nenea ala care stie mai mute ca tine si iti da peste nas pentru ca esti retardat? Nu-ti face probleme, stiu ca tu si "mamica ta" sunteti inceti, foarte inceti...mai dureaza pana intelegeti ceva.
+Gran_Torino, ce faci tata, mai plangi la mamica(CristianAdrian) atunci cand te supara nenea ala care stie mai multe ca tine si iti da peste nas pentru ca esti retardat? Nu-ti face probleme, stiu ca tu si "mamica ta" sunteti inceti, foarte inceti...mai dureaza pana intelegeti ceva.
 **
