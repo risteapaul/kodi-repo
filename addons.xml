@@ -285,4 +285,25 @@
     <description>vizioneaza filme, seriale, emisiuni tv si altele, subtitrate sau dublate in limba romana</description>
     <platform>all</platform>
   </extension>
+</addon><addon id="torrenter.searcher.FreshOnTV" name="Torrenter Searcher: FreshOn.tv" provider-name="Kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="__init__.py" point="xbmc.python.script">
+    <provides>executable</provides>
+  </extension>
+      <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="en">Torrenter v2 Searcher module for FreshOn.tv a.k.a. TvTorrents RO.
+        </summary>
+        <description lang="en">Torrenter v2 Searcher module for FreshOn.tv a.k.a. TvTorrents RO.
+        </description>
+        <disclaimer lang="en">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
+        <summary lang="ru">Серчер трекера FreshOn.tv a.k.a. TvTorrents RO для плагина Torrenter v2.
+        </summary>
+        <description lang="ru">Серчер трекера FreshOn.tv a.k.a. TvTorrents RO для плагина Torrenter v2.
+        </description>
+        <disclaimer lang="ru">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
+    </extension>
+  <extension point="xbmc.python.module" />
 </addon></addons>
