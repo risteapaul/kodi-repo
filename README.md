@@ -34,7 +34,3 @@ Plugin torrenter pentru:
 
 Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kodi-repo/master/repository.kingul.repo/repository.kingul.repo-1.0.4.zip si "install from zip file" din system->add-ons
 
-**
-Offtopic : 
-Gran_Torino, ce faci tata, mai plangi la mamica(CristianAdrian) atunci cand te supara nenea ala care stie mai multe ca tine si iti da peste nas pentru ca esti retardat? Nu-ti face probleme, stiu ca tu si "mamica ta" sunteti inceti, foarte inceti...mai dureaza pana intelegeti ceva.
-**
