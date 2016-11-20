@@ -22,6 +22,10 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
+in cazul in care ati activat protectia site-ului, introduceti in setari username si parola de pe regielive, apoi:
+- asteptati o zi sau :
+- reporniti routerul pentru ca ISP-ul sa va aloce alt ip
+
 ### subs.ro/subtitrari
 ### titrari.ro
 ### subtitrari-noi.ro
@@ -29,8 +33,13 @@ Descarcare subtitrari de pe :
 Plugin torrenter pentru:
 
 ### filelist.ro
+functioneaza numai cu username si parola
 ### datascene.net
+functioneaza numai cu username si parola
 ### rarbg.to
+### freshon.tv
+functioneaza numai cu username si parola
+
 
 Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kodi-repo/master/repository.kingul.repo/repository.kingul.repo-1.0.4.zip si "install from zip file" din system->add-ons
 
