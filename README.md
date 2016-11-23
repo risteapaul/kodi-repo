@@ -22,9 +22,7 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
-in cazul in care ati activat protectia site-ului, introduceti in setari username si parola de pe regielive, apoi:
-- asteptati o zi sau :
-- reporniti routerul pentru ca ISP-ul sa va aloce alt ip
+Functioneaza numai cu username si parola
 
 ### subs.ro/subtitrari
 ### titrari.ro
