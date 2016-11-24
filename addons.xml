@@ -272,7 +272,7 @@
     <description>Urmareste filme subtitrate in romana de pe FilmeHD.net</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.desene3dcom" name="Desene3d.com" provider-name="kingul" version="1.0.0">
+</addon><addon id="plugin.video.desene3dcom" name="Desene3d.com" provider-name="kingul" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.mrknow.urlresolver" version="2016.10.21.1" />
