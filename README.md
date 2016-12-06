@@ -22,8 +22,6 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro
-Functioneaza numai cu username si parola
-
 ### subs.ro/subtitrari
 ### titrari.ro
 ### subtitrari-noi.ro
