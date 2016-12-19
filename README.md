@@ -19,6 +19,8 @@ kodi add-ons pentru vizionare video, seriale, emisiuni, de pe :
 
 ### desene3d.com
 
+### tvmaniabg.com
+
 Descarcare subtitrari de pe :
 
 ### subtitrari.regielive.ro

@@ -306,4 +306,16 @@
         <disclaimer lang="ru">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
     </extension>
   <extension point="xbmc.python.module" />
+</addon><addon id="plugin.video.tvmaniabgcom" name="TVManiaBG.com" provider-name="kingul" version="1.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Live video from TvManiaBG.com</summary>
+    <description>Watch live streaming video from TvManiaBG.com</description>
+    <platform>all</platform>
+  </extension>
 </addon></addons>
