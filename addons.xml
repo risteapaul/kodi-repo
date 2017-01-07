@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.3">
+<addons><addon id="plugin.video.triluliluro" name="trilulilu.ro" provider-name="kingul" version="2.0.4">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -52,10 +51,9 @@
                 <disclaimer>Kingul</disclaimer>
 		<platform>all</platform>
 	</extension>
-</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.5">
+</addon><addon id="plugin.video.protvro" name="Protv.ro" provider-name="kingul" version="1.0.6">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -65,10 +63,9 @@
     <description>Urmareste emisiunile si serialele difuzate pe ProTV</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.tvrplus" name="TvrPlus" provider-name="kingul" version="1.0.3">
+</addon><addon id="plugin.video.tvrplus" name="TvrPlus" provider-name="kingul" version="1.0.4">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -78,10 +75,9 @@
     <description>Urmareste emisiunile aflate pe TvrPlus.ro</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.digi24" name="Digi24" provider-name="kingul" version="1.1.5">
+</addon><addon id="plugin.video.digi24" name="Digi24" provider-name="kingul" version="1.1.6">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
@@ -197,10 +193,9 @@
         <disclaimer lang="ru">GNU GPLv3 http://www.gnu.org/licenses/</disclaimer>
     </extension>
   <extension point="xbmc.python.module" />
-</addon><addon id="plugin.video.hindilovercom" name="Hindilover.com" provider-name="kingul" version="1.0.3">
+</addon><addon id="plugin.video.hindilovercom" name="Hindilover.com" provider-name="kingul" version="1.0.4">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
     <import addon="script.mrknow.urlresolver" version="2016.10.21.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
@@ -211,10 +206,9 @@
     <description>Urmareste seriale si filme de pe hindilover.com</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.filmeonline2013biz" name="Filmeonline2013.biz" provider-name="kingul" version="1.0.2">
+</addon><addon id="plugin.video.filmeonline2013biz" name="Filmeonline2013.biz" provider-name="kingul" version="1.0.3">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
     <import addon="script.mrknow.urlresolver" version="2016.10.21.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
@@ -225,10 +219,9 @@
     <description>Urmareste filme subtitrate in romana de pe filmeonline2013.biz</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="plugin.video.klatvro" name="Kla.tv" provider-name="kingul" version="1.0.2">
+</addon><addon id="plugin.video.klatvro" name="Kla.tv" provider-name="kingul" version="1.0.3">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
-    <import addon="script.common.plugin.cache" version="0.9.1" />
   </requires>
   <extension library="default.py" point="xbmc.python.pluginsource">
         <provides>video</provides>
