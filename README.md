@@ -39,5 +39,5 @@ functioneaza numai cu username si parola
 functioneaza numai cu username si parola
 
 
-Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kodi-repo/master/repository.kingul.repo/repository.kingul.repo-1.0.4.zip si "install from zip file" din system->add-ons
+Descarcati arhiva https://raw.githubusercontent.com/viorel-m/kingul-repo/master/zips/repository.kingul.repo/repository.kingul.repo-1.0.5.zip si "install from zip file" din system->add-ons
 
